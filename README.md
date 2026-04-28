@@ -158,6 +158,7 @@ Models with public weights, code, or both. License terms vary, check before comm
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/) — Product and growth newsletter that frequently covers AI tooling.
 - [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/) — Independent AI analysis with model deep dives.
 - [AI Breakdown](https://aibreakdown.com/) — Daily AI podcast and newsletter focused on industry shifts.
+- [AI Video Prompt Lab](https://aivideoprompts.substack.com/) — Weekly newsletter on permission-based real-face AI video workflows across Seedance 2.0, Runway, Pika, and Kling.
 
 ## Related Lists
 
